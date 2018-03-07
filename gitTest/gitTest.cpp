@@ -14,5 +14,6 @@ int main(void) {
     puts("This is a change");
     puts("This is a another change");
     puts("Change on new branch");
+    puts("Another new Change on new branch");
 	return EXIT_SUCCESS;
 }
