@@ -14,5 +14,6 @@ int main(void) {
     puts("This is a change");
     puts("This is a another change");
     puts("This is a another change on master");
+    puts("This is a another change on master to be pushed");
 	return EXIT_SUCCESS;
 }
